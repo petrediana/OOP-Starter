@@ -1,4 +1,4 @@
-# OOP C++
+# Object Oriented Programming C++
 
 Exercises that introduce you into OOP.
 
