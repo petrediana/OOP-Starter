@@ -1,0 +1,8 @@
+Rectangle should have two private fields defined as double data types, width and height. there should be get and set methods for each.
+A no-arg constructor that creates a rectangle with width of 1 and height of 1.
+Another constructor that cretaes a default rectangle with the specified width and height passed into it. 
+Create a public function named getArea() that returns the area of the rectangle. 
+Create a public function named getPerimeter() that returns the perimeter of the rectangle. 
+
+In the int main() program, include the Rectangle.h file.
+You will loop until a a width or height of 0 is input.

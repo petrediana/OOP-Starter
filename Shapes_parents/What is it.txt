@@ -1,0 +1,2 @@
+define a shape class with a constructor that gives value to width and height.
+Then define two sub-classes triangle and rectangle, that calculate the area of those shapes. 
